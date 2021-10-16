@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(to right, rgb(255, 255, 255), rgb(255, 205, 147));
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-top: 20%;
+}
+
+input {
+    padding: 5px 10px;
+    background-color: rgb(255, 194, 145);
+    font-size: larger;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+input:hover {
+    padding: 8px 20px;
+}
